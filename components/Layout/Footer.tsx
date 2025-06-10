@@ -30,7 +30,7 @@ export const Footer: React.FC = () => {
                             className="text-lg font-bold"
                             style={{ color: '#FFFFFF' }}
                         >
-                            sBTC Yield Nexus
+                            Yield Nexus
                         </span>
                     </div>
 
@@ -92,7 +92,7 @@ export const Footer: React.FC = () => {
                             className="text-xs"
                             style={{ color: '#8C8C8C' }}
                         >
-                            © 2025 sBTC Yield Nexus
+                            © 2025 Yield Nexus
                         </div>
                     </div>
                 </div>

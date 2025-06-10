@@ -106,7 +106,7 @@ export const PresentationSlide: React.FC = () => {
               backgroundClip: 'text'
             }}
           >
-            sBTC Yield Nexus
+            Yield Nexus
           </h1>
           <p className="text-lg mb-3" style={{ color: '#8C8C8C' }}>
             Unified DeFi Platform for Bitcoin-Based Yield Strategies
@@ -143,7 +143,7 @@ export const PresentationSlide: React.FC = () => {
                   🌐 Yield Nexus Platform Vision
                 </h3>
                 <p className="text-xs" style={{ color: '#8C8C8C' }}>
-                  sBTC Yield Nexus is the foundation for multi-chain expansion
+                  Yield Nexus is the foundation for multi-chain expansion
                 </p>
               </div>
               <button
