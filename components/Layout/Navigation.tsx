@@ -88,10 +88,10 @@ export const Navigation: React.FC<NavigationProps> = ({ className = '' }) => {
                                     key={item.href}
                                     href={item.href}
                                     className={`
-                                        relative px-4 py-2 rounded-lg text-sm font-medium transition-all duration-200
+                                        relative px-4 py-2 rounded-lg text-sm text-black font-bold transition-all duration-200
                                         ${isActiveRoute(item.href)
-                                            ? 'text-orange-600 bg-orange-50'
-                                            : 'text-gray-600 hover:text-blue-600 hover:bg-blue-50'
+                                            ? 'text-slate-900  bg-orange-50'
+                                            : 'text-slate-950  hover:text-blue-600 hover:bg-blue-50'
                                         }
                                     `}
                                 >
