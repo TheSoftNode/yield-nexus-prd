@@ -75,7 +75,7 @@ export const Navigation: React.FC<NavigationProps> = ({ className = '' }) => {
                             </div>
                             <div className="block">
                                 <h1 className="text-xl font-bold bg-gradient-to-r from-blue-600 via-purple-600 to-slate-800 bg-clip-text text-transparent">
-                                    sBTC Yield Nexus
+                                    Yield Nexus
                                 </h1>
                                 <p className="text-xs text-gray-500 font-medium">Development Planning</p>
                             </div>

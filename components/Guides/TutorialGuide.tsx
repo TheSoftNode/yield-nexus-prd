@@ -25,10 +25,10 @@ export const TutorialGuide: React.FC = () => {
                         <div className="space-y-4">
                             <div>
                                 <h3 className="text-lg font-semibold mb-2" style={{ color: '#262626' }}>
-                                    What is sBTC Yield Nexus?
+                                    What is Yield Nexus?
                                 </h3>
                                 <p className="text-sm leading-relaxed" style={{ color: '#8C8C8C' }}>
-                                    sBTC Yield Nexus is a unified DeFi platform designed for Bitcoin-based yield strategies.
+                                    Yield Nexus is a unified DeFi platform designed for Bitcoin-based yield strategies.
                                     Built on the Stacks blockchain, it enables Bitcoin holders to earn yield through various
                                     DeFi protocols while maintaining Bitcoin's security and decentralization.
                                 </p>
@@ -558,7 +558,7 @@ export const TutorialGuide: React.FC = () => {
                     Complete Guide & Tutorial
                 </h1>
                 <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-                    Comprehensive guide to understanding the sBTC Yield Nexus project, navigation,
+                    Comprehensive guide to understanding the Yield Nexus project, navigation,
                     features, and development process. This serves as both tutorial and project documentation.
                 </p>
             </div>
