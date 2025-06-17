@@ -6,42 +6,42 @@ const TeamPage: React.FC = () => {
     const teamMembers = [
         {
             id: 1,
-            name: 'Alex Johnson',
-            role: 'Full-Stack Developer & Co-Founder',
-            bio: 'Full-stack developer with 5+ years experience in DeFi and blockchain development. Specialized in smart contract architecture and security.',
+            name: 'Emmanuel Paul',
+            role: 'Smart contract engineer & Co-Founder',
+            bio: 'Smart contract engineer with 2+ years experience in DeFi and blockchain development. Specialized in smart contract architecture and security.',
             avatar: '👨‍💻',
-            skills: ['Smart Contracts', 'Clarity', 'React', 'Node.js', 'DeFi Protocols'],
+            skills: ['Smart Contracts', 'Clarity', 'Rust', 'Node.js', 'DeFi Protocols'],
             contact: {
-                email: 'alex@yieldnexus.io',
-                phone: '+1 (555) 123-4567',
-                linkedin: 'https://linkedin.com/in/alexjohnson-dev',
-                github: 'https://github.com/alexjohnson-dev',
-                twitter: 'https://twitter.com/alexjohnson_dev'
+                email: 'emmanuelpaul152@gmail com',
+                phone: '+2348164860634',
+                linkedin: 'https://linkedin.com/in/emmanuel-paul-39108922',
+                github: 'https://github.com/emmanuelist',
+                twitter: 'https://twitter.com/emmanuelcesc'
             },
             experience: [
-                { company: 'DeFi Protocols Inc.', role: 'Senior Blockchain Developer', period: '2021-2024' },
-                { company: 'CryptoStartup', role: 'Full-Stack Developer', period: '2019-2021' },
+                { company: 'DeFi Protocols Inc.', role: 'Junior Blockchain Developer', period: '2021-2024' },
+                { company: 'CryptoStartup', role: 'Smart contract Developer', period: '2019-2021' },
                 { company: 'TechCorp', role: 'Software Engineer', period: '2018-2019' }
             ]
         },
         {
             id: 2,
-            name: 'Sarah Chen',
-            role: 'Frontend Developer & Co-Founder',
-            bio: 'UI/UX focused developer with expertise in creating intuitive DeFi interfaces. Passionate about user experience and modern web technologies.',
+            name: 'Theophilus Uchechukwu',
+            role: 'Fullstack Engineer & Co-Founder',
+            bio: 'Senior Fullstack Engineer with over 4 years buiding web2 technologies and 1 year building in Web3. Passionate about blockchain innovation and developing solutions in the Stacks ecosystem.',
             avatar: '👩‍💻',
-            skills: ['React', 'TypeScript', 'UI/UX Design', 'Web3 Integration', 'Mobile Development'],
+            skills: ['React', 'Nextjs', 'TypeScript', 'Python', 'Django', 'Nestjs', 'Nodejs', 'Web3 Integration', 'Mobile Development', 'Clarity (stacks)', 'Rust'],
             contact: {
-                email: 'sarah@yieldnexus.io',
-                phone: '+1 (555) 987-6543',
-                linkedin: 'https://linkedin.com/in/sarahchen-frontend',
-                github: 'https://github.com/sarahchen-ui',
-                twitter: 'https://twitter.com/sarahchen_dev'
+                email: 'thesoftnode@gmail.com',
+                phone: '+2349038726950',
+                linkedin: 'https://www.linkedin.com/in/theophilus-uchechukwu/',
+                github: 'https://github.com/TheSoftNode',
+                twitter: 'https://x.com/TheSoft_Theo'
             },
             experience: [
-                { company: 'Web3 Design Studio', role: 'Lead Frontend Developer', period: '2020-2024' },
-                { company: 'StartupLab', role: 'UI/UX Developer', period: '2018-2020' },
-                { company: 'DesignAgency', role: 'Frontend Developer', period: '2017-2018' }
+                { company: 'HitoAI', role: 'Developers Lead', period: '2024 - present' },
+                { company: 'ALX', role: 'Bankend Engineer', period: '2023-2024' },
+                { company: 'IPT', role: 'Lead IT support Engineer', period: '2021-2023' }
             ]
         }
     ];
