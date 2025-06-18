@@ -7,21 +7,20 @@ const TeamPage: React.FC = () => {
         {
             id: 1,
             name: 'Emmanuel Paul',
-            role: 'Smart contract engineer & Co-Founder',
-            bio: 'Smart contract engineer with 2+ years experience in DeFi and blockchain development. Specialized in smart contract architecture and security.',
+            role: 'Smart Contract Engineer & Co-Founder',
+            bio: 'Smart contract engineer with 1+ years experience in DeFi and Backend development. Specialized in smart contract  and backend architecture and security.',
             avatar: '👨‍💻',
-            skills: ['Smart Contracts', 'Clarity', 'Rust', 'Node.js', 'DeFi Protocols'],
+            skills: ['Smart Contracts', 'Clarity', 'Rust', 'Node.js'],
             contact: {
                 email: 'emmanuelpaul152@gmail com',
                 phone: '+2348164860634',
-                linkedin: 'https://linkedin.com/in/emmanuel-paul-39108922',
+                linkedin: 'https://linkedin.com/in/emmanuel-paul-39108922/',
                 github: 'https://github.com/emmanuelist',
                 twitter: 'https://twitter.com/emmanuelcesc'
             },
             experience: [
-                { company: 'DeFi Protocols Inc.', role: 'Junior Blockchain Developer', period: '2021-2024' },
-                { company: 'CryptoStartup', role: 'Smart contract Developer', period: '2019-2021' },
-                { company: 'TechCorp', role: 'Software Engineer', period: '2018-2019' }
+                { company: 'Emergency Response Africa', role: 'Backend Engineer', period: '2022-2023' },
+                { company: 'Krystal Digital', role: 'Software Engineer', period: '2021-2022' }
             ]
         },
         {
